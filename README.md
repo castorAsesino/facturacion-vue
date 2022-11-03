@@ -1,6 +1,7 @@
 # facturacion-vue
 
 npm i to install dependencies
+
 npm run dev to run the project
 
 ![image](https://user-images.githubusercontent.com/28910328/199851365-3a15f6af-9bbd-416a-9488-5fa5d95444ea.png)
